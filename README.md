@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I am Arnold Oduma, a front end developer and designer
+
 <!--
 **ArnoldOduma/arnoldoduma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
