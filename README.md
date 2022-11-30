@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UI / UX Designer & Web Developer
 --------------------------------
 
+I am focused on creating meaningful experiences through design.
+
 *   🌍  I'm based in Nairobi, Kenya
 *   🖥️  See my portfolio at [arnoldcodes.com](http://arnoldcodes.com)
 *   ✉️  You can contact me at [odumaarnold@gmail.com](mailto:odumaarnold@gmail.com)
