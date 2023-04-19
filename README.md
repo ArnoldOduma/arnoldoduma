@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnold Oduma
 ====================================================================================================================================
 
-UI / UX Designer & Web Developer
+UI / UX Designer & Front-end Developer
 --------------------------------
 
 I am focused on creating meaningful experiences through design.
