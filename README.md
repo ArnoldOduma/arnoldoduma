@@ -9,7 +9,7 @@ I am focused on creating meaningful experiences through design.
 *   🌍  I'm based in Nairobi, Kenya
 *   🖥️  See my portfolio at [arnoldcodes.com](http://arnoldcodes.com)
 *   ✉️  You can contact me at [odumaarnold@gmail.com](mailto:odumaarnold@gmail.com)
-*   🚀  I'm currently working on [Chama Smart](http://chama-smart.web.app)
+*   🚀  I'm currently working on [odutechspace.com](http://odutechspace.com)
 *   🧠  I'm learning NestJS and React Native
 *   🤝  I'm open to collaborating on UI / UX Design Projects
 
